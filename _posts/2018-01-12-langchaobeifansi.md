@@ -3,7 +3,7 @@ layout: post
 title: 关于第八届浪潮杯的总结
 date: 2018-1-12
 categories: blog
-tags: [置顶]
+tags: [反思]
 description: 年轻的时候好羞耻啊
 ---
 
