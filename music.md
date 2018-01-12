@@ -2,7 +2,7 @@
 layout: page
 title: "Music"
 description: "想触碰又缩回手"
-header-img: "img/zhihu.jpg"
+header-img: "img/red.jpg"
 ---
 
 
