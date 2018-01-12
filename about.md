@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我"
+title: "About"
 description: "Seventeen is good." 
 header-img: "img/blue.jpg"
 ---
