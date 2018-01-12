@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Seventeen is good." 
-header-img: "img/green.jpg"
+header-img: "img/blue.jpg"
 ---
 
 大家好                
