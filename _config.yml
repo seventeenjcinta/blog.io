@@ -1,7 +1,6 @@
 # Site settings
 title: "宛风"
 header-img: "img/green.jpg"
-header-img: "img/red.jpg"
 tagline: "cn"  
 description: "Seventeen is good."
 baseurl: ""
