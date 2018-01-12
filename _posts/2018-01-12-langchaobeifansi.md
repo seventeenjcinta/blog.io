@@ -1,11 +1,12 @@
-0---
+---
 layout: post
-title: 关于第八届浪潮杯的总结
+title: 比赛注意事项 - 持续更新
 date: 2018-1-12
 categories: blog
-tags: [反思]
-description: 年轻的时候说话好羞耻啊
+tags: [置顶]
+description: 门前大桥下游过一群鸭。
 ---
+
 
 关于第八届浪潮杯的总结
 
