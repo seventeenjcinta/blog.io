@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 比赛注意事项 - 持续更新
+title: 关于第八届浪潮杯的总结
 date: 2018-1-12
 categories: blog
 tags: [置顶]
@@ -8,7 +8,7 @@ description: 年轻的时候好羞耻啊
 ---
 
 
-关于第八届浪潮杯的总结
+
 
  
 
