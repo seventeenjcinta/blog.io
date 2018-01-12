@@ -10,7 +10,7 @@ url: "http://sevenjcinta"
 owner: 
   name: "野生大奶牛" # 填写作者信息：名字
   email: 3240027916@qq.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "Seventeen is good." # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
