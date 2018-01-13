@@ -3,9 +3,8 @@ layout: post
 title: 比赛注意事项 - 持续更新
 date: 2018-1-12
 categories: blog
-tags: [置顶]
+tags: [置顶](http://seventeenjcinta.com/tags/)
 description: 门前大桥下游过一群鸭。
-header-img: "img/red.jpg"
 ---
 
 1、加油
