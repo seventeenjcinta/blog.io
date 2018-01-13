@@ -6,9 +6,9 @@ header-img: "img/semantic.jpg"
 ---
 
 
-<font color="#FF0000"> 物情今已见</font>
+<font size = "4"> 物情今已见</font> <br />
 
-<font color="#FF0000"> 从此欲无言</font>
+<font size = "4"> 从此欲无言</font> <br />
 
 
 ## 标签
