@@ -8,8 +8,6 @@ description: 阳光本该在晴天绽放
 header-img: "img/hanjiajihua.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=28363806&type=2&auto=1&width=278&height=32" width="298" height="52"  allowNetworking="all">
-
 - SRDP
 
 - 六级（大概率是四级）
