@@ -5,24 +5,11 @@ description: "虹共美人归"
 header-img: "img/semantic.jpg"  
 ---
 
-## 
 
-1. 在下面选一个你喜欢的词
-2. 点击它
-3. 相关的文章会「唰」地一声跳到页面顶端
-4. 马上试试？
+<font color="#FF0000"> 物情今已见</font>
 
-物情今已见
+<font color="#FF0000"> 从此欲无言</font>
 
-从此欲无言
-
-body
-{
-        background:url(images/bg.gif) repeat #000000;
-        padding:0; font-family:arial, sans-serif; font-size:12px;
-        margin:0px auto auto auto;
-        color:#36322b;
-}
 
 ## 标签
 
