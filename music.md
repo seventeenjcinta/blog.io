@@ -8,7 +8,7 @@ header-img: "img/red.jpg"
 
 
 
-## 我拥有的都是侥幸
+## [我拥有的都是侥幸](http://music.163.com/#/my/m/music/playlist?id=450890752)
 
 - [Counting Stars —— Simply Three](http://music.163.com/#/song?id=28363806)
 - [Letter —— Iris](http://music.163.com/#/song?id=26620638)
