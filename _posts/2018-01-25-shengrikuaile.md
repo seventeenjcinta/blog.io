@@ -13,9 +13,10 @@ header-img: "img/shengrikuaile.jpg"
 
 
 #### 写在前面
-
-
-
+***
+<br>
+<br>
+<br>
 我也不知道我是以什么心态去面对我的生日和写这篇文<br>
 明明在生日来之前把相关资料改了，不想让别人知道<br>
 但是内心又想着听到别人祝我生日快乐<br>
@@ -37,18 +38,20 @@ header-img: "img/shengrikuaile.jpg"
 现在在父母的争吵声中<br>
 搓出这个不像样的文章<br>
 谨记我这么多年的人生<br>
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### 十七
-
-
+***
+<br>
+<br>
+<br>
 >“你看，我办过工作社，编过歌谱过曲，认识诸多大佬，比起其他人，我真是多才多艺，人生阅历丰富啊！”<br>
 >“你爱过么？”
 
@@ -199,19 +202,20 @@ header-img: "img/shengrikuaile.jpg"
 <blockquote>“你都如何回忆<br>
 我带着笑或是很沉默 <br>
 这些年来有没有人能让你不寂寞”</blockquote>
-　
-　
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### 大奶牛
-
-
+***
+<br>
+<br>
+<br>
 > “心有猛虎，细嗅蔷薇。”
 
 
@@ -231,13 +235,20 @@ header-img: "img/shengrikuaile.jpg"
 你要做一个温柔的人呐<br>
 
 > 感觉就像是失意已久的人生，就差一点就能得到幸福了<br>
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### Heaven_ 
-
+***
+<br>
+<br>
+<br>
 > “擅长一知半解却又喋喋不休的家伙。”<br>
 
 <blockquote>课听的迷迷糊糊，作业做一些抄一些。<br>
@@ -270,12 +281,20 @@ header-img: "img/shengrikuaile.jpg"
 不知什么原因<br>
 变成了一个死小孩<br>
 似乎准备一直死小孩下去<br>
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### 涩涩
-
+***
+<br>
+<br>
+<br>
 涩涩应该是所有人中<br>
 最幸福的一个了<br>
 尽管在家庭上受到了很重的伤<br>
@@ -289,12 +308,20 @@ header-img: "img/shengrikuaile.jpg"
 一直一直<br>
 直到结婚<br>
 直到老<br>
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### 写在后面
-
-
+***
+<br>
+<br>
+<br>
 当面对杜医生最后的检查的时候<br>
 我说谎了<br>
 靠着自己构造出来幸福人生<br>
