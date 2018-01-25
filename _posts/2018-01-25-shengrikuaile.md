@@ -12,7 +12,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####写在前面
+#### 写在前面
 
 
 
@@ -46,7 +46,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####十七 —— 请用一支玫瑰纪念我
+#### 十七
 
 
 >“你看，我办过工作社，编过歌谱过曲，认识诸多大佬，比起其他人，我真是多才多艺，人生阅历丰富啊！”<br>
@@ -208,7 +208,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####大奶牛
+#### 大奶牛
 
 
 > “心有猛虎，细嗅蔷薇。”
@@ -235,7 +235,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####Heaven_ 
+#### Heaven_ 
 
 > “擅长一知半解却又喋喋不休的家伙。”
 
@@ -273,7 +273,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####涩涩
+#### 涩涩
 
 涩涩应该是所有人中
 最幸福的一个了
@@ -291,7 +291,7 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-####写在后面
+#### 写在后面
 
 
 当面对杜医生最后的检查的时候
