@@ -241,8 +241,6 @@ header-img: "img/shengrikuaile.jpg"
 #### Heaven_ 
 ***
 <br>
-<br>
-<br>
 > “擅长一知半解却又喋喋不休的家伙。”<br>
 
 <blockquote>课听的迷迷糊糊，作业做一些抄一些。<br>
