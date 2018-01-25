@@ -228,7 +228,7 @@ header-img: "img/shengrikuaile.jpg"
 大奶牛<br>
 你要做一个温柔的人呐<br>
 
-> 感觉就像是失意已久的人生，就差一点就能得到幸福了<br>
+<blockquote> 感觉就像是失意已久的人生，就差一点就能得到幸福了<br></blockquote>
 <br>
 <br>
 <br>
