@@ -196,7 +196,8 @@ header-img: "img/shengrikuaile.jpg"
 
 
 
-<blockquote>“你都如何回忆我带着笑或是很沉默 <br>
+<blockquote>“你都如何回忆<br>
+我带着笑或是很沉默 <br>
 这些年来有没有人能让你不寂寞”</blockquote>
 　
 　
@@ -227,7 +228,7 @@ header-img: "img/shengrikuaile.jpg"
 性格鲜明<br>
 也许还有些许过去的残留<br>
 大奶牛<br>
-你要做一个温柔的人呐！<br>
+你要做一个温柔的人呐<br>
 
 > 感觉就像是失意已久的人生，就差一点就能得到幸福了<br>
 
