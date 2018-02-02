@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 比赛注意事项 - 持续更新
+title: test
 date: 2018-1-12
 categories: blog
 tags: [置顶]
