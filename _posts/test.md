@@ -41,7 +41,7 @@ header-img: "img/bisaizhuyishixiang.jpg"
 <html>
 <body>
 
-<img src="img/test.jpg"/>
+<img src="img/test.jpg">
 
 </body>
 </html>
