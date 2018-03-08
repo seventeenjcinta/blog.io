@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 斐波那契数列 - 持续更新
-date: 2018-1-12
+date: 2018-3-8
 categories: blog
 tags: [ACM,数学]
 description: 挡不住风霜。
