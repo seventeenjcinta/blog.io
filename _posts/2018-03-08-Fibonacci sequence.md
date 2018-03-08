@@ -22,4 +22,5 @@ header-img: "img/Fibonacci sequence.jpg"
 
 然后是有一个通项公式，虽然我目前不知道怎么证明= =!
 
-![avater](https://raw.githubusercontent.com/seventeenjcinta/seventeenjcinta.GitHub.io/master/img/Fibonacci%20sequence/F1.jpg)
+![](http://www.forkosh.com/mathtex.cgi? Fic(n)=\frac{1}{\sqrt{5}}[(\frac{1+\sqrt{5}}{2})^{n+1}-(\frac{1-\sqrt{5}}{2})^{n+1}]
+)
