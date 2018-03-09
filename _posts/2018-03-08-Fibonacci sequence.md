@@ -34,11 +34,8 @@ header-img: "img/Fibonacci sequence.jpg"
 
 关于快速幂<br>
 
-<style> a img{border:none} .testdiv *{ vertical-align:middle; } </style>
 
-<div class="testdiv">   <span> 比如 我们想计算</span> </div><a href="http://www.codecogs.com/eqnedit.php?latex=\inline&space;2^{13}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\inline&space;2^{13}" title="2^{13}" /></a>
 
-<a href="http://www.codecogs.com/eqnedit.php?latex=比如我们想计算2^{13}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?比如我们想计算2^{13}" title="比如我们想计算2^{13}" /></a>
 很显然是我们可以把 2 乘 13 次<br>
 
 
