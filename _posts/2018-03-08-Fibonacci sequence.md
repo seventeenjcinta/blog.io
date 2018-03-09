@@ -4,7 +4,7 @@ title: 斐波那契数列 - 持续更新
 date: 2018-3-8
 categories: blog
 tags: [ACM,数学]
-description: 挡不住风霜。
+description: 挡不住风霜。。。
 header-img: "img/Fibonacci sequence.jpg"
 ---
 
