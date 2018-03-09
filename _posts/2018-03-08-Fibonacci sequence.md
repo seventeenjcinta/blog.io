@@ -24,3 +24,19 @@ header-img: "img/Fibonacci sequence.jpg"
 
 ![](http://www.forkosh.com/mathtex.cgi? Fic(n)=\frac{1}{\sqrt{5}}[(\frac{1+\sqrt{5}}{2})^{n+1}-(\frac{1-\sqrt{5}}{2})^{n+1}]
 )
+
+#### 2018-03-09
+***
+
+然后现在来说说 O(log(n)) 来求斐波那契数列
+
+建立在快速幂的基础上
+
+关于快速幂
+比如说我们想计算 ![](http://www.forkosh.com/mathtex.cgi? 2^{13})
+很显然是我们可以把 2 乘 13 次
+
+很丑陋
+
+其实我们可以计算 ![](http://www.forkosh.com/mathtex.cgi? 2^{1} * 2^{4} * 2^{8})
+
