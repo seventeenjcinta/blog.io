@@ -16,7 +16,7 @@ header-img: "img/Fibonacci sequence.jpg"
 先是斐波那契数列的定义
 
 第一项Fic(0) = 0，Fic(1) = 1，以后每一项都是前两项的和<br>
-那么有    Fic(n) = F(n - 1) + F(n - 2)<br><br>
+那么有    Fic(n) = icF(n - 1) + Fic(n - 2)<br><br>
 
 所以很显然有一个 O(n) 的递推<br><br>
 
@@ -38,10 +38,7 @@ header-img: "img/Fibonacci sequence.jpg"
 
 很丑陋<br>
 
-$$
-f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 } \tag{1}
-$$
-2^{13}
+
 
 其实我们可以计算 ![](http://www.forkosh.com/mathtex.cgi? 2^{1} * 2^{4} * 2^{8})
 
