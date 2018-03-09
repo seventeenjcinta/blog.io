@@ -34,8 +34,25 @@ header-img: "img/Fibonacci sequence.jpg"
 
 关于快速幂<br>
 
+
+<html>
+<head>
+<style type="text/css">
 p {display: inline}
-比如说我们想计算 <a href="https://www.codecogs.com/eqnedit.php?latex=2^{13}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^{13}" title="2^{13}" /></a>
+div {display: none}
+</style>
+</head>
+
+<body>
+<p>本例中的样式表把段落元素设置为内联元素。</p>
+
+<p>而 div 元素不会显示出来！</p>
+
+<div>div 元素的内容不会显示出来！</div>
+</body>
+</html>
+p {display: inline}
+比如说我们想计算 <style= "display:inline a href="https://www.codecogs.com/eqnedit.php?latex=2^{13}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^{13}" title="2^{13}" /></a>
 很显然是我们可以把 2 乘 13 次<br>
 
 
