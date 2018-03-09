@@ -33,7 +33,7 @@ header-img: "img/Fibonacci sequence.jpg"
 建立在快速幂的基础上<br>
 
 关于快速幂<br>
-比如说我们想计算 ![](http://www.forkosh.com/mathtex.cgi? 2^{13})
+比如说我们想计算 <img src="http://chart.googleapis.com/chart?cht=tx&chl=2^{13}" style="border:none;">
 很显然是我们可以把 2 乘 13 次<br>
 
 很丑陋<br>
