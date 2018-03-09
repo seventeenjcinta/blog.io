@@ -41,6 +41,7 @@ header-img: "img/Fibonacci sequence.jpg"
 $$
 f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 } \tag{1}
 $$
+2^{13}
 
 其实我们可以计算 ![](http://www.forkosh.com/mathtex.cgi? 2^{1} * 2^{4} * 2^{8})
 
