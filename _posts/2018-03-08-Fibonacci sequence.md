@@ -30,7 +30,7 @@ header-img: "img/Fibonacci sequence.jpg"
 
 然后现在来说说 O(log(n)) 来求斐波那契数列<br>
 
-建立在快速幂的基础上<br>
+建立在快速幂的基础上，<br>
 
 关于快速幂<br>
 
