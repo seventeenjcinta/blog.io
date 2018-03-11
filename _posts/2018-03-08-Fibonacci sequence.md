@@ -135,3 +135,6 @@ For each case, output f((k)) % m in one line.
 
 ***
 
+其实我觉得只要这张图片就够了
+
+![avater](https://raw.githubusercontent.com/seventeenjcinta/seventeenjcinta.GitHub.io/master/img/hdu1757.jpg)
