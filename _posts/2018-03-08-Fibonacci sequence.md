@@ -44,56 +44,8 @@ header-img: "img/Fibonacci sequence.jpg"
 
 
 
-其实我们可以计算 <a href="https://www.codecogs.com/eqnedit.php?latex=2^{1}&space;*&space;2^{4}&space;*&space;2^{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^{1}&space;*&space;2^{4}&space;*&space;2^{8}" title="2^{1} * 2^{4} * 2^{8}" /></a>
-
-<a href="http://www.codecogs.com/eqnedit.php?latex=\inline&space;P\{\mbox{拒绝}&space;\mid&space;H_{0}&space;\mbox{为真}\}&space;=&space;\alpha" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\inline&space;P\{\mbox{拒绝}&space;\mid&space;H_{0}&space;\mbox{为真}\}&space;=&space;\alpha" title="P\{\mbox{拒绝} \mid H_{0} \mbox{为真}\} = \alpha" /></a>
-
-
-
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
-
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
 
 Test a display math:
-$$
+$
    |\psi_1\rangle = a|0\rangle + b|1\rangle
-$$
-Is it O.K.?
-
-Test a display math with equation number:
-\begin{equation}
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-\end{equation}
-Is it O.K.?
-
-Test a display math with equation number:
-$$
-  \begin{align}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align}
-$$
-Is it O.K.?
-
-And test a display math without equaltion number:
-$$
-  \begin{align\*}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align\*}
-$$
-Is it O.K.?
-
-Test a display math with equation number:
-\begin{align}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-\end{align}
-Is it O.K.?
-
-And test a display math without equaltion number:
-\begin{align\*}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-\end{align\*}
-Is it O.K.?
+$
