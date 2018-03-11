@@ -85,3 +85,53 @@ LL quickmod(LL a, LL b, LL MOD)
 </code></pre>
 矩阵快速幂 
 就是用快速幂来加速矩阵乘法= =！
+
+具体的矩阵快速幂和斐波那契数列的关系
+我们来看一道题
+
+HDU - 1757
+
+
+<center><h1><font face="verdana" color="red"> A Simple Math Problem </font></h1></center>
+
+<center><font size="3" face="arial"> Time Limit: 3000/1000 MS (Java/Others) </font></center>	 
+<center><font size="3" face="arial"> Memory Limit: 32768/32768 K (Java/Others) </font></center>	 	
+
+
+
+### Description
+
+Lele now is thinking about a simple function f(x).
+
+If x < 10 f(x) = x.
+If x >= 10 f(x) = a0 * f(x-1) + a1 * f(x-2) + a2 * f(x-3) + …… + a9 * f(x-10);
+And ai(0<=i<=9) can only be 0 or 1 .
+
+Now, I will give a0 ~ a9 and two positive integers k and m ,and could you help Lele to caculate f(k)%m.
+### Input
+
+The problem contains mutiple test cases.Please process to the end of file.
+In each case, there will be two lines.
+In the first line , there are two positive integers k and m. ( k<2*10^9 , m < 10^5 )
+In the second line , there are ten integers represent a0 ~ a9.
+
+### Output
+
+For each case, output f(k) % m in one line.
+
+### Sample Input
+
+10 9999
+1 1 1 1 1 1 1 1 1 1
+20 500
+1 0 1 0 1 0 1 0 1 0
+
+### Sample Output
+
+45
+104
+
+
+
+***
+
