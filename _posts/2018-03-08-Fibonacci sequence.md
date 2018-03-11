@@ -36,9 +36,11 @@ header-img: "img/Fibonacci sequence.jpg"
 关于快速幂<br>
 
 比如说我们要计算 
-&
-|\psi_1\rangle = a|0\rangle + b|1\rangle
-&
+$
+  \begin{align\*}
+    3^{11}
+  \end{align\*}
+$
 直接算，当然是把 3 乘 11 次<br>
 
 很丑陋<br>
