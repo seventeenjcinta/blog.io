@@ -29,7 +29,7 @@ header-img: "img/Fibonacci sequence.jpg"
 #### 2018-03-11
 ***
 
-然后现在来说说 O(log(n)) 来求斐波那契数列<br>
+然后现在来说说 O((log(n))) 来求斐波那契数列<br>
 
 建立在快速幂的基础上，<br>
 
@@ -37,7 +37,7 @@ header-img: "img/Fibonacci sequence.jpg"
 
 比如说我们要计算 
 &
-3^{11} 
+|\psi_1\rangle = a|0\rangle + b|1\rangle
 &
 直接算，当然是把 3 乘 11 次<br>
 
