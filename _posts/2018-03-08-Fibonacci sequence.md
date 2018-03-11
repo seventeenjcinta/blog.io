@@ -35,7 +35,10 @@ header-img: "img/Fibonacci sequence.jpg"
 
 关于快速幂<br>
 
-比如说我们要计算 & 3^{11} & <br>
+比如说我们要计算 
+&
+3^{11} 
+&
 直接算，当然是把 3 乘 11 次<br>
 
 很丑陋<br>
