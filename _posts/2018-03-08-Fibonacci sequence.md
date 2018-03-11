@@ -82,6 +82,6 @@ LL quickmod(LL a, LL b, LL MOD)
 
     return ans % MOD;
 }
-
+</code></pre>
 矩阵快速幂 
 就是用快速幂来加速矩阵乘法= =！
