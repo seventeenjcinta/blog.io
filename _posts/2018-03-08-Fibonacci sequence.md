@@ -26,7 +26,7 @@ header-img: "img/Fibonacci sequence.jpg"
 ![](http://www.forkosh.com/mathtex.cgi? Fic(n)=\frac{1}{\sqrt{5}}[(\frac{1+\sqrt{5}}{2})^{n+1}-(\frac{1-\sqrt{5}}{2})^{n+1}]
 )
 
-#### 2018-03-09
+#### 2018-03-11
 ***
 
 然后现在来说说 O(log(n)) 来求斐波那契数列<br>
@@ -35,17 +35,33 @@ header-img: "img/Fibonacci sequence.jpg"
 
 关于快速幂<br>
 
-
-
-很显然是我们可以把 2 乘 13 次<br>
-
+比如说我们要计算 & 3^{11} & <br>
+直接算，当然是把 3 乘 11 次<br>
 
 很丑陋<br>
+   
+我们来把 11 二进制分解
+得到 1011
 
+从右往左数第 i 位如果是 1
+表示& 3^{2^{i-1}} & 需要计算在内
+而 & 3^{1} &, & 3^{2} &, & 3^{4} & ……都可以通过自乘得到
 
+这样就成了 log 级别了！
+代码也很短
 
+<pre><code>
 
-Test a display math:
-$
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-$
+LL quickmod(LL a, LL b, LL MOD)
+{
+    LL ans = 1;
+    while(b){
+        if(b & 1){
+            ans = (ans * a) % MOD;
+        }
+        b >>= 1;
+        a = a * a % MOD;
+    }
+
+    return ans % MOD;
+}
