@@ -103,33 +103,33 @@ HDU - 1757
 
 Lele now is thinking about a simple function f(x).
 
-If x < 10 f(x) = x.
-If x >= 10 f(x) = a0 * f(x-1) + a1 * f(x-2) + a2 * f(x-3) + …… + a9 * f(x-10);
-And ai(0<=i<=9) can only be 0 or 1 .
+If x < 10 f((x)) = x.
+If x >= 10 f((x)) = a0 * f((x-1)) + a1 * f((x-2)) + a2 * f((x-3)) + …… + a9 * f((x-10));<br>
+And ai(0<=i<=9) can only be 0 or 1.<br>
 
-Now, I will give a0 ~ a9 and two positive integers k and m ,and could you help Lele to caculate f(k)%m.
+Now, I will give a0 ~ a9 and two positive integers k and m ,and could you help Lele to caculate f((k))%m.<br>
 ### Input
 
-The problem contains mutiple test cases.Please process to the end of file.
-In each case, there will be two lines.
-In the first line , there are two positive integers k and m. ( k<2*10^9 , m < 10^5 )
-In the second line , there are ten integers represent a0 ~ a9.
+The problem contains mutiple test cases.Please process to the end of file.<br>
+In each case, there will be two lines.<br>
+In the first line , there are two positive integers k and m. (( k<2*10^9 , m < 10^5 ))<br>
+In the second line , there are ten integers represent a0 ~ a9.<br>
 
 ### Output
 
-For each case, output f(k) % m in one line.
+For each case, output f((k)) % m in one line.
 
 ### Sample Input
 
-10 9999
-1 1 1 1 1 1 1 1 1 1
-20 500
-1 0 1 0 1 0 1 0 1 0
+10 9999<br>
+1 1 1 1 1 1 1 1 1 1<br>
+20 500<br>
+1 0 1 0 1 0 1 0 1 0<br>
 
 ### Sample Output
 
-45
-104
+45<br>
+104<br>
 
 
 
