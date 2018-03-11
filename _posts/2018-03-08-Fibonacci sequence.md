@@ -16,10 +16,10 @@ header-img: "img/Fibonacci sequence.jpg"
 
 先是斐波那契数列的定义
 
-第一项Fic(0) = 0，Fic(1) = 1，以后每一项都是前两项的和<br>
-那么有    Fic(n) = icF(n - 1) + Fic(n - 2)<br><br>
+第一项Fic((0)) = 0，Fic((1)) = 1，以后每一项都是前两项的和<br>
+那么有    Fic((n)) = Fic((n - 1)) + Fic((n - 2))<br><br>
 
-所以很显然有一个 O(n) 的递推<br><br>
+所以很显然有一个 O((n)) 的递推<br><br>
 
 然后是有一个通项公式，虽然我目前不知道怎么证明= =!<br>
 
