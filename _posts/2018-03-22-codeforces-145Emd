@@ -1,0 +1,175 @@
+---
+layout: post
+title: codeforces - 145E
+date: 2018-03-22
+categories: blog
+tags: [ACM,数据结构,线段树]
+description: 挡不住风霜
+header-img: "img/codeforces145E.jpg"
+---
+
+
+
+
+<center><h1><font face="verdana" color="red"> Lucky Queries </font></h1></center>
+
+<center><font size="3" face="arial"> Time Limit: 3000MS </font></center>	 
+<center><font size="3" face="arial"> Memory Limit: 256 megabytes </font></center>	 	
+
+
+
+### Description
+
+outputstandard output
+Petya loves lucky numbers very much. Everybody knows that lucky numbers are positive integers whose decimal record contains only the lucky digits 4 and 7. For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.
+
+Petya brought home string s with the length of n. The string only consists of lucky digits. The digits are numbered from the left to the right starting with 1. Now Petya should execute m queries of the following form:
+
+- switch l r — "switch" digits (i.e. replace them with their opposites) at all positions with indexes from l to r, inclusive: each digit 4 is replaced with 7 and each digit 7 is replaced with 4 (1 ≤ l ≤ r ≤ n);
+- count — find and print on the screen the length of the longest non-decreasing subsequence of string s.
+Subsequence of a string s is a string that can be obtained from s by removing zero or more of its elements. A string is called non-decreasing if each successive digit is not less than the previous one.
+
+Help Petya process the requests.
+
+### Input
+
+he first line contains two integers n and m (1 ≤ n ≤ 10^6, 1 ≤ m ≤ 3·10^5) — the length of the string s and the number of queries correspondingly. The second line contains n lucky digits without spaces — Petya's initial string. Next m lines contain queries in the form described in the statement.
+
+### Output
+
+For each query count print an answer on a single line.
+
+### Sample Input
+
+3 5<br>
+747<br>
+count<br>
+switch 1 1<br>
+count<br>
+switch 1 3<br>
+count<br>
+
+### Sample Output
+
+2<br>
+3<br>
+2<br>
+
+
+
+***
+刚开始觉得是一个题意杀<br>
+
+后来觉得其实很好理解的<br>
+总觉得似曾相识<br>
+
+一个人每天都要堆一个重量为 ma[i] 的雪人<br>
+每天每堆雪人都会融化 mb[i]<br>
+对于同一天是先堆雪人后融化<br>
+当然如果一个雪人已经没了肯定就不会再融化了<br>
+
+最后让你输出每天共融化了多少重量的雪<br>
+
+刚开始想着往数据结构方面去想<br>
+毕竟雪人的融化可以当作区间减<br>
+但是失败了= =<br>
+
+然后开始重新想<br>
+下意识的觉得应该来一个前缀和<br>
+然后就出来了<br>
+
+首先要知道一点<br>
+
+如果每个雪人体积是无限的<br>
+那么第 i 天融化的雪就是 mb[i] * i<br>
+
+然后有两个点会影响这个值
+
+第一就是如果之前已经有雪人融化了，那么
+
+我们对每天融化的雪来做一个前缀和<br>
+
+然后对于第 i 天堆其来的雪人<br>
+我们尝试去求出它在第几天会彻底融化<br>
+
+怎么求呢<br>
+
+当然是对于 (ma[i] + sum_mb[i  1]) 在 sum_mb 中二分啦<br>
+
+找到 sum_mb 中第一个大于他的数的下标 x<br>
+这就意味着在第 x 天这个雪人融化了<br>
+
+那么在那一天融化的雪就是 cnt * mb[x] - (sum_mb[x] - ma[i])<br>
+注意到这边用的是 cnt<br>
+因为有雪人融化<br>
+所以我们还要维护一下当前存在的雪人的个数<br>
+
+最后很显然会爆 int<br>
+比赛的时候懒得思考了<br>
+全换了 longlong！<br>
+
+
+<pre><code>
+#include &lt;bits/stdc++.h&gt;
+#define LL long long
+using namespace std;
+
+const int N = 100010;
+
+int ma[N];
+int mb[N];
+LL mc[N];
+LL cnt1[N];
+int cnt2[N];
+int n;
+int cnt;
+
+int main(int argc, char const *argv[])
+{
+	while(scanf("%lld", &n) == 1){
+	    ma[0] = mb[0] = 0;
+	    cnt = 1;
+	    memset(cnt1, 0, sizeof(cnt1));
+	    memset(cnt2, 0, sizeof(cnt2));
+	    for(int i = 1; i <= n; i ++){
+	    	scanf("%d", &ma[i]);
+    	    }
+	    for(int i = 1; i <= n; i ++){
+		scanf("%lld", &mb[i]);
+		mc[i] = mb[i];
+		mc[i] += mc[i - 1];
+	    }
+	    for(int i = 1; i <= n; i ++){
+		int l, r;
+		int ans;
+
+		l = i;
+		r = n;
+		ans = -1;
+		while(l <= r){
+		    int mid;
+
+                    mid = (l + r) >> 1;
+	     	    if(mc[mid] - mc[i - 1] < ma[i]){
+                        l = mid + 1;
+	    	    }
+		    else{
+                        r = mid - 1;
+                        ans = mid;
+	  	    }
+		}
+		if(ans != -1){
+                    cnt1[ans] -= (ma[i] - mc[ans] + mc[i - 1]);
+                    cnt2[ans] ++;
+		}
+	    }
+    	    for(int i = 1; i <= n; i ++){
+                printf("%lld ", 1ll * cnt * mb[i] - cnt1[i]);
+                cnt ++;
+                cnt -= cnt2[i];
+	    }
+	    printf("\n");
+	}
+
+	return 0;
+}
