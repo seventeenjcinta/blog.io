@@ -66,7 +66,7 @@ Please do not use the %lld specificator to read or write 64-bit integers in С++
 
 虽然我也不知道为什么被卡了辣么久<br>
 
-先对每个点，根据 len[i] 做一次 Dij 求出多元最短路（神经病啊！）<br>
+先对每个点，根据 len[i] 做一次 Dij 求出多源最短路（神经病啊！）<br>
 找出每个路口的老司机能带你去的所有地方<br>
 再根据这个连边，cost[i]为权再建一个图<br>
 然后再跑一遍 Dij（神经病啊）<br>
