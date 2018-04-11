@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 比赛注意事项 - 持续更新
+title: 不止爱情
 date: 2018-4-11
 categories: blog
-tags: [置顶]
+tags: [杂谈,转载]
 description: 门前大桥下游过一群鸭。
 header-img: "img/guanyuxihuan.jpg"
 ---
