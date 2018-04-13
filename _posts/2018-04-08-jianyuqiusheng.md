@@ -47,7 +47,7 @@ header-img: "img/jianyuqiusheng.jpg"
 $$
 P\left \{ A \right \} = P\left \{ B_1 \right \}P\left \{ B_2|B_1 \right \} = \frac{1}{2}\times \frac{59}{99} = \frac{25}{99}< \frac{1}{4}
 $$
-<br>两两一组，整体活下来的概率就是$ (\frac{25}{99})^{50} $，比不采取任何策略要好很多了，但是还是依然处于不可能的阶段。
+<br><br>两两一组，整体活下来的概率就是$ (\frac{25}{99})^{50} $，比不采取任何策略要好很多了，但是还是依然处于不可能的阶段。
 
 
 
