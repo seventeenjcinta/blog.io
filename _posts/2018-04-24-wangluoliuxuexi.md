@@ -4,7 +4,6 @@ title: 网络流学习计划
 date: 2018-04-24
 categories: blog
 tags: [ACM,图论,杂谈]
-use_math: true
 description: 挡不住风霜
 header-img: "img/wangluoliuxuexi.jpg"
 ---
