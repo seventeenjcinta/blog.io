@@ -9,9 +9,12 @@ header-img: "img/wangluoliuxuexi.jpg"
 ---
 
 - 最大流
-  - POJ - 1149
-  - POJ - 1273
-  - POJ - 2112
+  - ~~Dinic~~
+  - 预留推进
+  - ~~当前弧优化的Dinic~~
+  - ~~POJ - 1149~~
+  - ~~POJ - 1273~~
+  - ~~POJ - 2112~~
   - POJ - 1459
   - BZOJ
 - 最小割
