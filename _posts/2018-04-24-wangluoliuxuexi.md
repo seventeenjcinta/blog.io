@@ -8,10 +8,12 @@ description: 挡不住风霜
 header-img: "img/wangluoliuxuexi.jpg"
 ---
 
-- 最大流<br>
-  - ~~Dinic~~<br>
+- 最大流
+ - ~~Dinic~~
+
+  - ~~Dinic~~
   - 预留推进<br>
-  - ~~当前弧优化的Dinic~~<br>
+  - ~~当前弧优化的Dinic~~
   - ~~POJ - 1149~~
   - ~~POJ - 1273~~
   - ~~POJ - 2112~~
