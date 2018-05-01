@@ -50,6 +50,8 @@ header-img: "img/bisaizhuyishixiang.jpg"
 
 21、结构体排序一定要把所有元素的判定都确定好
 
+22、不要用 memset 给 double 数组赋值
+
 
 
 
