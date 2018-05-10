@@ -11,7 +11,9 @@ header-img: "img/wangluoliuxuexi.jpg"
 - 最大流
   - ~~Dinic~~
   - 预留推进
-  - ~~当前弧优化的Dinic~~
+  - ~~当前弧优化的 Dinic~~
+  - ~~炸点优化的 Dinic~~
+  - ~~多路增广优化的 Dinic~~
   - ~~POJ - 1149~~
   - ~~POJ - 1273~~
   - ~~POJ - 2112~~
