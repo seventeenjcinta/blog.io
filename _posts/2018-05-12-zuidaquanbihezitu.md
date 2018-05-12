@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 网络流学习笔记 ———— 最大权闭合子图的证明
+title: 最大权闭合子图 ———— 学习笔记
 date: 2018-05-12
 categories: blog
-tags: [ACM,图论,网络流]
+tags: [ACM,图论,网络流,学习笔记]
 use_math: true
 description: 跟你一样我也留不住她
 header-img: "img/Maximumweightedclosedzygogram.jpg"
@@ -67,4 +67,63 @@ $$
 
 ##### 符号规定
 
-​	设简单割 $\left [S,T  \right ]​$ 将图 $N​$ 的点集 $V_{N}​$ 划分成点集 $S_{1}​$ 及其补集 $$
+​	设简单割 $\left [S,T  \right ]$ 将图 $N$ 的点集 $V_{N}$ 划分成点集 $S$ 及其补集 $T(T = V_{N} - S)$ ，满足 $s\in S$ ，$t \in T$ 。
+	设 $G$ 中的一个闭合图为 $V_{1}$，它在 $G$ 中的补集为 $V_{2}(V_{2} = V - V_{1})$。
+	记 $V^{+}$ 为 $V$ 中点权为正的点集，$V^{-}$ 为 $V$ 中点权为负的点集。
+	同样的可以定义$V_{1}^{+}$ ，$V_{1}^{-}$，$V_{2}^{+}$，$V_{2}^{-}$ 。
+
+
+
+##### 一个结论及其证明
+
+​	在简单割和闭合子图的一一对应下，我们有：
+$$
+c\left [ S,T\right ] = \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v}
+$$
+​	证明：
+
+​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：
+$$
+\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
+$$
+​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$
+​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$
+​		因为汇点 $t$ 只与 $V^{-}$ 相连，所以有 $\left [ V_{1},\left \{ t \right \} \right ]=\left [ V_{1}^{-},\left \{ t \right \} \right ]$
+		综上有 $\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2}^{+} \right ]\bigcup \left [ V_{1}^{-},\left \{ t \right \} \right ]$
+
+​	证毕。
+
+
+
+##### 另一个结论及其证明
+
+​	最优性：当图 $N$ 取到最小割的时候，对应的图 $G$ 的闭合图达到最大权
+
+
+
+​	证明：
+
+​		对于闭合图 $V_{1}$，有：
+$$
+w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}
+$$
+​		然后我们把这个式子和上面证明的那个式子~~（我就是不想对公式标号你不服来打我啊）~~联立：
+$$
+\begin{align*}
+w\left ( V_{1} \right )+c\left [ s,t \right ] &= \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v} + \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v} \\
+&= \sum_{v\in V_{1}^{+}}w_{v} + \sum_{v\in V_{2}^{+}}+w_{v} \\
+&= \sum_{v\in V^{+}}w_{v}
+\end{align*}
+$$
+​		整理一下有：
+$$
+w\left ( V_{1} \right ) = \sum_{v\in V^{+}}w_{v} -c\left [ s,t \right ]
+$$
+​	所以我们的目标是最大化 $w\left ( V_{1} \right )$，而正权点的权值总和 $\sum_{v\in V^{+}}w_{v}$ 为一个定值，所以就等价于求原图最小割，然后就可以转化成最大流了。<br><br><br>
+
+#### 结论
+***
+<br>
+
+最大点权和 = 正权点和 - 最小割
+
