@@ -82,7 +82,7 @@ c\left [ S,T\right ] = \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v}
 $$<br>
 ​	证明：<br>
 
-​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：
+​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：<br>
 $$
 \left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
 $$
@@ -114,7 +114,7 @@ w\left ( V_{1} \right )+c\left [ s,t \right ] &= \sum_{v\in V_{1}^{+}}w_{v} - \s
 &= \sum_{v\in V_{1}^{+}}w_{v} + \sum_{v\in V_{2}^{+}}+w_{v} \\
 &= \sum_{v\in V^{+}}w_{v}
 \end{align*}
-$$
+$$<br>
 ​		整理一下有：<br>
 $$
 w\left ( V_{1} \right ) = \sum_{v\in V^{+}}w_{v} -c\left [ s,t \right ]
