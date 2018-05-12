@@ -78,13 +78,13 @@ $$
 
 ​	在简单割和闭合子图的一一对应下，我们有：<br>
 $$
-c\left [ S,T\right ] = \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v}
+\qquad \qquad \qquad \qquad \qquad \qquad c\left [ S,T\right ] = \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v}
 $$<br>
 ​	证明：<br>
 
 ​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：<br>
 $$
-\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
+\qquad \qquad \qquad \qquad \qquad \qquad  \left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
 $$<br>
 ​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$<br>
 ​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$<br>
@@ -103,9 +103,9 @@ $$<br>
 
 ​	证明：
 
-​		对于闭合图 $V_{1}$，有：
+​		对于闭合图 $V_{1}$，有：<br>
 $$
-w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}
+w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}<br>
 $$
 ​		然后我们把这个式子和上面证明的那个式子~~（我就是不想对公式标号你不服来打我啊）~~联立：
 $$
