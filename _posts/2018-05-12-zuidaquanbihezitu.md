@@ -76,22 +76,22 @@ $$
 
 ##### 一个结论及其证明
 
-​	在简单割和闭合子图的一一对应下，我们有：
+​	在简单割和闭合子图的一一对应下，我们有：<br>
 $$
 c\left [ S,T\right ] = \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v}
 $$
-​	证明：
+​	证明：<br>
 
 ​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：
 $$
 \left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
 $$
-​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$
-​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$
-​		因为汇点 $t$ 只与 $V^{-}$ 相连，所以有 $\left [ V_{1},\left \{ t \right \} \right ]=\left [ V_{1}^{-},\left \{ t \right \} \right ]$
-		综上有 $\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2}^{+} \right ]\bigcup \left [ V_{1}^{-},\left \{ t \right \} \right ]$
+​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$<br>
+​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$<br>
+​		因为汇点 $t$ 只与 $V^{-}$ 相连，所以有 $\left [ V_{1},\left \{ t \right \} \right ]=\left [ V_{1}^{-},\left \{ t \right \} \right ]$<br>
+		综上有 $\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2}^{+} \right ]\bigcup \left [ V_{1}^{-},\left \{ t \right \} \right ]$<br>
 
-​	证毕。
+​	证毕。<br>
 
 
 
@@ -115,10 +115,10 @@ w\left ( V_{1} \right )+c\left [ s,t \right ] &= \sum_{v\in V_{1}^{+}}w_{v} - \s
 &= \sum_{v\in V^{+}}w_{v}
 \end{align*}
 $$
-​		整理一下有：
+​		整理一下有：<br>
 $$
 w\left ( V_{1} \right ) = \sum_{v\in V^{+}}w_{v} -c\left [ s,t \right ]
-$$
+$$<br>
 ​	所以我们的目标是最大化 $w\left ( V_{1} \right )$，而正权点的权值总和 $\sum_{v\in V^{+}}w_{v}$ 为一个定值，所以就等价于求原图最小割，然后就可以转化成最大流了。<br><br><br>
 
 #### 结论
