@@ -85,7 +85,7 @@ $$<br>
 ​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：<br>
 $$
 \left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
-$$
+$$<br>
 ​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$<br>
 ​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$<br>
 ​		因为汇点 $t$ 只与 $V^{-}$ 相连，所以有 $\left [ V_{1},\left \{ t \right \} \right ]=\left [ V_{1}^{-},\left \{ t \right \} \right ]$<br>
