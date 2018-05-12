@@ -105,8 +105,8 @@ $$<br>
 
 ​		对于闭合图 $V_{1}$，有：<br>
 $$
-\qquad \qquad \qquad \qquad \qquad \qquad w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}<br>
-$$
+\qquad \qquad \qquad \qquad \qquad \qquad w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}
+$$<br><br>
 ​		然后我们把这个式子和上面证明的那个式子~~（我就是不想对公式标号你不服来打我啊）~~联立：
 $$
 \begin{align*}
