@@ -85,11 +85,11 @@ $$<br>
 ​		对于图中的和闭合子图对应的一个割 $\left [S,T  \right ]$ 按照与源点，汇点的连接情况，可以分成三个部分：<br><br>
 $$
 \qquad \qquad \qquad \qquad \qquad \qquad  \left [ S,T\right ] = \left [ \left \{ s \right \},V_{2} \right ]\bigcup \left [ V_{1},\left \{ t \right \} \right ] \bigcup\left [ V_{1},V_{2}\right ]
-$$<br>
+$$<br><br>
 ​		由于 $\left [S,T  \right ]$ 是一个简单割，所以有 $\left [V_{1},V_{2}  \right ] = \varnothing$<br>
 ​		因为源点 $s$ 只与 $V^{+}$ 相连，所以有 $$\left [ \left \{ s \right \},V_{2} \right ]=\left [ \left \{ s \right \},V_{2}^{+} \right ]$$ <br>
 ​		因为汇点 $t$ 只与 $V^{-}$ 相连，所以有 $$\left [ V_{1},\left \{ t \right \} \right ]=\left [ V_{1}^{-},\left \{ t \right \} \right ]$$ <br>
-		综上有 $$\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2}^{+} \right ]\bigcup \left [ V_{1}^{-},\left \{ t \right \} \right ]$$<br>
+		 综上有 $$\left [ S,T\right ] = \left [ \left \{ s \right \},V_{2}^{+} \right ]\bigcup \left [ V_{1}^{-},\left \{ t \right \} \right ]$$<br>
 
 ​	证毕。<br>
 
@@ -107,7 +107,7 @@ $$<br>
 $$
 \qquad \qquad \qquad \qquad \qquad \qquad w(V_{1}) = \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v}
 $$<br><br>
-​		然后我们把这个式子和上面证明的那个式子~~（我就是不想对公式标号你不服来打我啊）~~联立：
+​		然后我们把这个式子和上面证明的那个式子~~（我就是不想对公式标号你不服来打我啊）~~联立：<br><br>
 $$
 \begin{align*}
 \qquad \qquad \qquad \qquad \qquad \qquad w\left ( V_{1} \right )+c\left [ s,t \right ] &= \sum_{v\in V_{1}^{+}}w_{v} - \sum_{v\in V_{1}^{-}}-w_{v} + \sum_{v\in V_{2}^{+}}w_{v} + \sum_{v\in V_{1}^{-}}-w_{v} \\
@@ -115,10 +115,10 @@ $$
 &= \sum_{v\in V^{+}}w_{v}
 \end{align*}
 $$<br>
-​		整理一下有：<br>
+​		整理一下有：<br><br>
 $$
 \qquad \qquad \qquad \qquad \qquad \qquad w\left ( V_{1} \right ) = \sum_{v\in V^{+}}w_{v} -c\left [ s,t \right ]
-$$<br>
+$$<br><br>
 ​	所以我们的目标是最大化 $w\left ( V_{1} \right )$，而正权点的权值总和 $\sum_{v\in V^{+}}w_{v}$ 为一个定值，所以就等价于求原图最小割，然后就可以转化成最大流了。<br><br><br>
 
 #### 结论
