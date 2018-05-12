@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 最大权闭合子图 ———— 学习笔记
+title: 最大权闭合子图 —— 学习笔记
 date: 2018-05-12
 categories: blog
 tags: [ACM,图论,网络流,学习笔记]
