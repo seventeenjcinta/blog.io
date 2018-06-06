@@ -129,7 +129,7 @@ void Guass()
 
 - BZOJ2460
 
-- BZOJ2115 
+- ~~BZOJ2115 ~~
 
 - CodeForces724G
 
