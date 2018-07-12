@@ -4,6 +4,7 @@ title: Benelux Algorithm Programming Contest 2014 Final - E - Excellent Engineer
 date: 2018-07-12
 categories: blog
 tags: [ACM,数据结构,线段树,思维]
+use_math: true
 description: 挡不住风霜
 header-img: "img/Excellent Engineers.jpg"
 ---
