@@ -3,7 +3,7 @@ layout: post
 title: 监狱求生
 date: 2018-04-08
 categories: blog
-tags: [ACM,数学,转载]
+tags: [ACM,数论,转载]
 use_math: true
 description: 挡不住风霜。。。
 header-img: "img/jianyuqiusheng.jpg"
