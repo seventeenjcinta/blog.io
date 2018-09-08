@@ -26,6 +26,7 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 一天一道数论函数 or 组合数学<br>
 不知道能坚持多久呢qwq<br>
 题目会随便找，难度方差可能会有点大<br>
+打铁小队最后的挣扎<br>
 <br><br><br>
 
 
