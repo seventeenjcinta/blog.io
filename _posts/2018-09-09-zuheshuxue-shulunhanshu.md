@@ -34,7 +34,7 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 ***
 <br>
 
-- (2018 - 9 - 9) [Regional 2015 - Asia Changchun - B Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528)  \[大奶牛\]  \[航神\]   
+- ((2018 - 9 - 9)) [Regional 2015 - Asia Changchun - B Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528)  \[大奶牛\]  \[航神\]   
 
 <br><br><br>
 
