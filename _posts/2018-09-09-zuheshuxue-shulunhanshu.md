@@ -1,3 +1,4 @@
+---
 layout: post
 title: <数论函数>、 <组合数学> 习题册 - 持续更新
 date: 2018-09-09
@@ -6,7 +7,7 @@ tags: [ACM,数论,置顶]
 use_math: true	
 description: 她再也不会来了
 header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
-
+---
 
 写在前面
 
