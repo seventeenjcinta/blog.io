@@ -23,7 +23,7 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 发现航神变菜了<br>
 我很难过<br>
 于是约好一起学数学~~（航神：明明是你强迫我的QAQ）~~<br>
-一天一道数论函数 or 组合数学<br>
+~~一天一道~~ 一周两道数论函数 or 组合数学<br>
 不知道能坚持多久呢qwq<br>
 题目会随便找，难度方差可能会有点大<br>
 打铁小队最后的挣扎<br>
@@ -34,7 +34,8 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 ***
 <br>
 
-- ((2018.09.09)) [HDU - 5528 - Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528) ——————\[大奶牛\] \[航神\]
+- ((2018.09.09)) [HDU - 5528 - Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528) ——————\[~~大奶牛~~\] \[~~航神~~\]
+  - [大奶牛题解](http://seventeenjcinta.com/blog/2018/09/09/hdu-5528/)
 
 <br><br><br>
 
@@ -43,6 +44,5 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 ***
 <br>
 以上
-
 
 
