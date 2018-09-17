@@ -47,9 +47,9 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 
 <br>
 
-- ((2018.09.09)) HDU - 5528 - Count a × b ——————[大奶牛] [航神]
+- ((2018.09.09)) [HDU - 5528 - Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528) ——————\[~~大奶牛~~\] \[~~航神~~\]
   - 大奶牛题解
-- ((2018.09.17)) HDU - 5970 - 最大公约数——————[大奶牛] [航神]
+- ((2018.09.17)) [HDU - 5970 - 最大公约数](http://acm.hdu.edu.cn/showproblem.php?pid=5970)——————\[大奶牛\] \[航神\]
 
 <br><br><br>
 
