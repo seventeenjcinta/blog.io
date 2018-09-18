@@ -6,7 +6,7 @@ categories: blog
 tags: [ACM,图论,网络流,学习笔记]
 use_math: true
 description: 跟你一样我也留不住她
-header-img: "img/Maximumweightedclosedzygogram.jpg"
+header-img: "https://i.loli.net/2018/09/18/5ba097ee27b82.jpg"
 ---
 
 
