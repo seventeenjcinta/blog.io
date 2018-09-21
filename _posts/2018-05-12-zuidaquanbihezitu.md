@@ -50,7 +50,7 @@ $$
 \begin{cases}
 c\left ( u,v \right )=\infty & \text{ if } \left \langle s, v \right \rangle \in  E \\ 
 c\left ( s,v \right)=w_{v} & \text{ if } w_{v} > 0 \\ 
-c\left ( s,v \right)=-w_{v} & \text{ if } w_{v} < 0
+c\left ( v,t \right)=-w_{v} & \text{ if } w_{v} < 0
 \end{cases}
 $$
 
