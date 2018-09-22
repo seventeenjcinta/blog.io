@@ -43,6 +43,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 
 - ((2018.09.17)) [ZOJ - 1654 - Place the Robots](https://vjudge.net/problem/ZOJ-1654) ——————\[大奶牛\] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.09.17)) [BZOJ - 4873 - 寿司餐厅](https://vjudge.net/problem/HYSBZ-4873)——————\[~~大奶牛~~\] \[~~咕咕咕~~\]\[倒霉学弟\]
+  - [大奶牛题解](http://seventeenjcinta.com/blog/2018/09/21/bzoj-4873/)
 
 <br><br><br>
 
@@ -53,4 +54,3 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 <br>
 
 以上
-
