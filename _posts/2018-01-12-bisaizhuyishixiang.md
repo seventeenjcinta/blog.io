@@ -5,7 +5,7 @@ date: 2018-1-12
 categories: blog
 tags: [置顶]
 description: 门前大桥下游过一群鸭。
-header-img: "img/bisaizhuyishixiang.jpg"
+header-img: "https://i.loli.net/2018/09/25/5ba90bf92997b.jpg"
 ---
 
 1、加油
@@ -14,7 +14,7 @@ header-img: "img/bisaizhuyishixiang.jpg"
 
 3、long long
 
-4、位运算括号
+4、括号优先级
 
 5、1ll * int
 
@@ -32,9 +32,9 @@ header-img: "img/bisaizhuyishixiang.jpg"
 
 12、考虑位运算
 
-13、INF偏小
+13、INF 偏小
 
-14、看完cla再交题
+14、看完 cla 再交题
 
 15、别交错题目了
 
@@ -52,7 +52,9 @@ header-img: "img/bisaizhuyishixiang.jpg"
 
 22、不要用 memset 给 double 数组赋值
 
+23、Debug 先确认传递参数的正确性
 
+24、莫队 debug 先注释掉 Build 和 sort
 
 
 
