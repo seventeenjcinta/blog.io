@@ -48,7 +48,9 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
   - [大奶牛代码](https://paste.ubuntu.com/p/DrRPTTV9Tx/)
 - ((2018.09.23)) [LOJ - P3358 - 最长k可重区间集问题](https://www.luogu.org/problemnew/show/P3358) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.09.24)) [LOJ - P3357 - 最长k可重线段集问题](https://www.luogu.org/problemnew/show/P3357) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
-- ((2018.09.25)) [LOJ - P2763 - [试题库问题](https://www.luogu.org/problemnew/show/P2763) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.09.25)) [LOJ - P2763 - 试题库问题](https://www.luogu.org/problemnew/show/P2763) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.09.26)) [LOJ - P4016 - 负载平衡问题](https://www.luogu.org/problemnew/show/P4016) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.09.27)) [BZOJ - 3504 - [Cqoi2014]危桥](https://www.lydsy.com/JudgeOnline/problem.php?id=3504) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 
 <br><br><br>
 
