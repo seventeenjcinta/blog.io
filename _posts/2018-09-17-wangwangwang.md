@@ -51,6 +51,8 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.09.25)) [LOJ - P2763 - 试题库问题](https://www.luogu.org/problemnew/show/P2763) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.09.26)) [LOJ - P4016 - 负载平衡问题](https://www.luogu.org/problemnew/show/P4016) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.09.27)) [BZOJ - 3504 - [Cqoi2014]危桥](https://www.lydsy.com/JudgeOnline/problem.php?id=3504) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.09.28)) [BZOJ - 4842 - [Neerc2016]Delight for a Cat](https://www.lydsy.com/JudgeOnline/problem.php?id=4842) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.09.29)) [BZOJ - 3550 - [ONTAK2010]Vacation](https://www.lydsy.com/JudgeOnline/problem.php?id=3550) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 
 <br><br><br>
 
