@@ -15,7 +15,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 
 <br>
 
-“这个世界好冷。” 
+> “这个世界好冷。” 
 
 <br><br><br>
 
