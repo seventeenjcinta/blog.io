@@ -56,6 +56,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.10.01)) [BZOJ - 4429 - [Nwerc2015] Elementary Math小学数学](https://www.lydsy.com/JudgeOnline/problem.php?id=4429) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.02)) [LOJ - P1251 - 餐巾计划问题](https://www.luogu.org/problemnew/show/P1251) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.03)) [LOJ - P4016 - 负载平衡问题](https://www.luogu.org/problemnew/show/P4016) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.10.03)) 感觉遇到了一些瓶颈，咕几天吧 —————— 大奶牛
 
 <br><br><br>
 
