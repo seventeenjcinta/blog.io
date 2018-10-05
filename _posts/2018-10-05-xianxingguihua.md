@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 线性规划
+title: 线性规划学习笔记
 date: 2018-10-05
 categories: blog
 tags: [ACM,思维,学习笔记]
