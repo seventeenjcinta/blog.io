@@ -112,7 +112,7 @@ $$
   ​
   $$
   \begin{eqnarray}	\underset{\lambda_1 \geqslant 0, \lambda_2, \lambda_3 \geqslant  0}{max}\quad \underset{x_1\geqslant 0, x_2 \leqslant  0, x_3}{min}  -b_1\lambda_1 - b_2\lambda_2 + b_3\lambda_3\\
-  + x_1( a_1\lambda_1 + \lambda_2 - v_1)\\
+  +x_1( a_1\lambda_1 + \lambda_2 - v_1)\\
   +x_2( \lambda_1 +a_2 \lambda_2  - v_2)\\
   +x_3(\lambda_1 -a_3\lambda_3 - v_3)\\
   \end{eqnarray}
