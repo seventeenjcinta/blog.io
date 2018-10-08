@@ -53,6 +53,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.09.27)) [BZOJ - 3504 - [Cqoi2014]危桥](https://www.lydsy.com/JudgeOnline/problem.php?id=3504) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
 - ((2018.09.28)) [BZOJ - 4842 - [Neerc2016]Delight for a Cat](https://www.lydsy.com/JudgeOnline/problem.php?id=4842) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
   - [大奶牛代码](https://paste.ubuntu.com/p/msrCfwBXJF/)
+  - [大奶牛题解](http://seventeenjcinta.com/blog/2018/09/29/bzoj-4842/)
 - ((2018.09.29)) [BZOJ - 3550 - [ONTAK2010]Vacation](https://www.lydsy.com/JudgeOnline/problem.php?id=3550) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
 - ((2018.10.01)) [BZOJ - 4429 - [Nwerc2015] Elementary Math小学数学](https://www.lydsy.com/JudgeOnline/problem.php?id=4429) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
 - ((2018.10.02)) [LOJ - P1251 - 餐巾计划问题](https://www.luogu.org/problemnew/show/P1251) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
