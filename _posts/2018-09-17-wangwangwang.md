@@ -64,6 +64,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.10.05)) 咕咕咕突然切掉了一万道题，非常吓人
 - ((2018.10.06)) [ BZOJ- 3112 - [Zjoi2013]防守战线](https://www.lydsy.com/JudgeOnline/problem.php?id=3112) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
 - ((2018.10.08)) [ BZOJ- 5335 - [Tjoi2018]智力竞赛](https://www.lydsy.com/JudgeOnline/problem.php?id=5335) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
+- ((2018.10.09)) [ BZOJ- 3218 -a + b Problem](https://www.lydsy.com/JudgeOnline/problem.php?id=3218) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
 
 <br><br><br>
 
