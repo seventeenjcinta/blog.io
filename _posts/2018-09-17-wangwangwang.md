@@ -66,6 +66,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.10.08)) [ BZOJ- 5335 - [Tjoi2018]智力竞赛](https://www.lydsy.com/JudgeOnline/problem.php?id=5335) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.09)) [ BZOJ- 3218 - a + b Problem](https://www.lydsy.com/JudgeOnline/problem.php?id=3218) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.09)) 今天咕咕咕不想写网络流，把我禁言了，记仇 ——————\[大奶牛] 
+- ((2018.10.10)) [ CodeForces- 818 - G. Four Melodies](http://codeforces.com/contest/818/problem/G) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 
 <br><br><br>
 
