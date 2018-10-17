@@ -57,6 +57,7 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 - ((2018.??.??)) [Codeforces - 632E - Bash Plays with Functions](http://codeforces.com/problemset/problem/632/E)——————\[大奶牛\] \[航神\]
 - ((2018.??.??)) [HDU - 6217 - BBP Formula](http://acm.hdu.edu.cn/showproblem.php?pid=6217)——————\[大奶牛\] \[航神\]
 - ((2018.??.??)) [HDU - 6211 - Pythagoras](http://acm.hdu.edu.cn/showproblem.php?pid=6211)——————\[大奶牛\] \[航神\]
+- ((2018.10.17)) 说好的数论函数 + 组合数学最后除了组合数学什么都有了——————大奶牛
 
 <br><br><br>
 
