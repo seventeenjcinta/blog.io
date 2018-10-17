@@ -44,6 +44,13 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 - ((2018.09.09)) [HDU - 5528 - Count a × b](http://acm.hdu.edu.cn/showproblem.php?pid=5528) ——————\[~~大奶牛~~\] \[~~航神~~\]
   - [大奶牛题解](http://seventeenjcinta.com/blog/2018/09/09/hdu-5528/)
 - ((2018.09.17)) [HDU - 5970 - 最大公约数](http://acm.hdu.edu.cn/showproblem.php?pid=5970)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [HDU - 4675 - GCD of Sequence](http://acm.hdu.edu.cn/showproblem.php?pid=4675)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [2018 ACM-ICPC 沈阳网络赛C Convex hull](https://nanti.jisuanke.com/t/31444)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [[2018ACM-ICPC徐州网络赛 D Easy Math](https://nanti.jisuanke.com/t/31456)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [[NWERC2015 Debugging](http://codeforces.com/gym/101485/attachments)]——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [[codeforces757E](http://codeforces.com/problemset/problem/757/E)]——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [[四川省赛GRISAIA](https://www.oj.swust.edu.cn/problem/show/2810)]——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [[BZOJ - 2820 - YY的GCD](https://www.lydsy.com/JudgeOnline/problem.php?id=2820)]——————\[大奶牛\] \[航神\]
 
 <br><br><br>
 
@@ -53,5 +60,4 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 <br>
 
 以上
-
 
