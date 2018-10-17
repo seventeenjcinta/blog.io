@@ -46,11 +46,17 @@ header-img: "https://i.loli.net/2018/09/09/5b93f959c887d.jpg"
 - ((2018.09.17)) [HDU - 5970 - 最大公约数](http://acm.hdu.edu.cn/showproblem.php?pid=5970)——————\[大奶牛\] \[航神\]
 - ((2018.??.??)) [HDU - 4675 - GCD of Sequence](http://acm.hdu.edu.cn/showproblem.php?pid=4675)——————\[大奶牛\] \[航神\]
 - ((2018.??.??)) [2018 ACM-ICPC 沈阳网络赛C Convex hull](https://nanti.jisuanke.com/t/31444)——————\[大奶牛\] \[航神\]
-- ((2018.??.??)) [[2018ACM-ICPC徐州网络赛 D Easy Math](https://nanti.jisuanke.com/t/31456)——————\[大奶牛\] \[航神\]
-- ((2018.??.??)) [[NWERC2015 Debugging](http://codeforces.com/gym/101485/attachments)]——————\[大奶牛\] \[航神\]
-- ((2018.??.??)) [[codeforces757E](http://codeforces.com/problemset/problem/757/E)]——————\[大奶牛\] \[航神\]
-- ((2018.??.??)) [[四川省赛GRISAIA](https://www.oj.swust.edu.cn/problem/show/2810)]——————\[大奶牛\] \[航神\]
-- ((2018.??.??)) [[BZOJ - 2820 - YY的GCD](https://www.lydsy.com/JudgeOnline/problem.php?id=2820)]——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [2018ACM-ICPC徐州网络赛 D Easy Math](https://nanti.jisuanke.com/t/31456)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [NWERC2015 Debugging](http://codeforces.com/gym/101485/attachments)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [Codeforces - 757E - Bash Plays with Functions](http://codeforces.com/problemset/problem/757/E)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [四川省赛GRISAIA](https://www.oj.swust.edu.cn/problem/show/2810)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [BZOJ - 2820 - YY的GCD](https://www.lydsy.com/JudgeOnline/problem.php?id=2820)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [HDU - 5909 - Tree Cutting](http://acm.hdu.edu.cn/showproblem.php?pid=5909)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [UvaLive - 8144 - Sacred Scarecrows](https://vjudge.net/problem/UVALive-8144)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [ProjectEuler - 108 - Diophantine reciprocals I](https://projecteuler.net/problem=108)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [Codeforces - 632E - Bash Plays with Functions](http://codeforces.com/problemset/problem/632/E)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [HDU - 6217 - BBP Formula](http://acm.hdu.edu.cn/showproblem.php?pid=6217)——————\[大奶牛\] \[航神\]
+- ((2018.??.??)) [HDU - 6211 - Pythagoras](http://acm.hdu.edu.cn/showproblem.php?pid=6211)——————\[大奶牛\] \[航神\]
 
 <br><br><br>
 
