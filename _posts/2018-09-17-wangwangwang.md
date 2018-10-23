@@ -71,6 +71,7 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
   - [大奶牛代码](https://paste.ubuntu.com/p/MhWZpznFqX/)
   - 深刻理解拆点 ——————[大奶牛]
 - ((2018.10.15)) [Jisuanke- Our Journey of Xian Ends](https://nanti.jisuanke.com/t/18521) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+  - [大奶牛代码](https://paste.ubuntu.com/p/B2DQWTSQ3y/)
 - ((2018.10.16)) [ CodeForces- 101464 - D. Problemsetting](http://codeforces.com/gym/101464) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.17)) [ CodeForces- 101194 - J. Mr.Panda and TubeMaster](http://codeforces.com/gym/101194) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
   - **Cla: In page 16 (problem "Mr. Panda and TubeMaster"), the first line should be "In the tables above, the middle one is a valid configuration while the left one and the right one are not."**
