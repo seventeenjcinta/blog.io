@@ -82,6 +82,8 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.10.20)) [ CodeForces - 101492 I. Protecting the Great Wall](http://codeforces.com/gym/101492) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.21)) [ CodeForces - 100357 I. No Term Repetition Exactly One S](http://codeforces.com/gym/100357) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
 - ((2018.10.24)) [ BZOJ- 5120 - [2017国家集训队测试]无限之环](https://www.lydsy.com/JudgeOnline/problem.php?id=5120) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+- ((2018.10.25)) [ HDU- 5520 - Number Link](http://acm.hdu.edu.cn/showproblem.php?pid=5520) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
+    - [大奶牛代码](https://paste.ubuntu.com/p/QbNnJgRJvN/)
 
 <br><br><br>
 
