@@ -85,6 +85,9 @@ header-img: "https://i.loli.net/2018/09/17/5b9fbb97a3884.jpg"
 - ((2018.10.25)) [ HDU- 5520 - Number Link](http://acm.hdu.edu.cn/showproblem.php?pid=5520) ——————\[~~大奶牛~~] \[~~咕咕咕~~\]\[倒霉学弟\]
     - [大奶牛代码](https://paste.ubuntu.com/p/QbNnJgRJvN/)
 
+- ((2018.11.07))  [ CodeForces - 101908 G. Gasoline](http://codeforces.com/gym/101908/problem/G) ——————\[~~大奶牛~~] \[咕咕咕\]\[倒霉学弟\]
+    - [咕咕咕代码](https://paste.ubuntu.com/p/xGy6NPq9Mv/)
+
 <br><br><br>
 
 #### 后文
