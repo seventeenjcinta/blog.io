@@ -14,6 +14,7 @@ header-img: "img/red.jpg"
 - [Claris](http://www.cnblogs.com/clrs97/)
 - [quailty](https://blog.csdn.net/quailty)
 - [qscqesze](http://www.cnblogs.com/qscqesze/default.html)
+- [CaiJi](https://haibara777.github.io/)
 
 
 ## [不言而喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
