@@ -16,6 +16,7 @@ header-img: "img/red.jpg"
 - [qscqesze](http://www.cnblogs.com/qscqesze/default.html)
 - [CaiJi](https://haibara777.github.io/)
 - [天下第三可爱的宫涵蕴](https://blog.csdn.net/404)
+- [恶臭](https://jingzewang.github.io/)
 
 
 ## [不言而喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
