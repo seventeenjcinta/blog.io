@@ -10,11 +10,17 @@ header-img: "img/red.jpg"
 
 - [佳坤学姐](https://houjiakun.com/)
 - [软萌学姐](http://nyankochan.com/)
+- [Skywalker](https://blog.csdn.net/skywalkert)
+- [Claris](http://www.cnblogs.com/clrs97/)
+- [quailty](https://blog.csdn.net/quailty)
+- [qscqesze](http://www.cnblogs.com/qscqesze/default.html)
+
 
 ## [不言而喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
 
 - [Counting Stars —— Simply Three](http://music.163.com/#/song?id=28363806)
 - [Letter —— Iris](http://music.163.com/#/song?id=26620638)
+- [River Flows in You，Wedding Dress —— 安俊成](https://music.163.com/#/song?id=27901129)
 
 ## 如约而至
 - [Counting Stars —— OneRepublic](http://music.163.com/#/song?id=26060065)
