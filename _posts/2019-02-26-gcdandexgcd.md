@@ -207,3 +207,5 @@ $$
 
 HDU - 5528<br>
 题解 - http://seventeenjcinta.com/blog/2018/09/09/hdu-5528/<br>
+CF - 787A<br>
+题解 - 没有<br>
