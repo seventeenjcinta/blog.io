@@ -49,7 +49,7 @@ $$
 ------
 
 在上述定义下<br>
-那么我们有两个整数 $m$ 和 $n$ 的**最大公因子**(great common divisor) 是能整除他们两者的最大整数<br>
+那么我们有两个整数 $m$ 和 $n$ 的**最大公因子**（great common divisor）是能整除他们两者的最大整数<br>
 $$
 gcd(m, n) = max(k | (k \setminus m) \cap (k \setminus n))
 $$
@@ -64,7 +64,7 @@ $(m / gcd(n, m)) / (n / gcd(n, m))$<br>
 同时特殊的，我们有：<br>
 $gcd(0, n) = n$<br>
 $gcd(0, 0)$ 没有意义<br>
-另一个熟悉的符号是**最小公倍数**(least common multiple)<br>
+另一个熟悉的符号是**最小公倍数**（least common multiple）<br>
 $$
 lcm = min(k|k > 0, (m \setminus k) \cap (n \setminus k))
 $$
