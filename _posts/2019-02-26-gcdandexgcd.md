@@ -51,11 +51,11 @@ $$
 在上述定义下<br>
 那么我们有两个整数 $m$ 和 $n$ 的**最大公因子**(great common divisor) 是能整除他们两者的最大整数<br>
 $$
-gcd(m, n) = max(k \| (k \setminus m) \cap (k \setminus n))
+gcd(m, n) = max(k | (k \setminus m) \cap (k \setminus n))
 $$
 <br>皮一下：<br>
 $$
-gcd(m, n) = max(k \| k \| m\cap k \| n)
+gcd(m, n) = max(k | k | m\cap k | n)
 $$
 <br>我们可以用他来化简一个分数<br>
 对于一个分数 $m / n$ 化简为最简有：<br>
