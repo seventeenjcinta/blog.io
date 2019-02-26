@@ -199,7 +199,7 @@ $$
 $$
 \sum_{m}\sum_{l, k}a_{k, kl}[n = jk][n / k = ml] = \sum_{m}\sum_{l, k}a_{k, kl}[n = mlk]
 $$
-除了变量名不一样以外其余的都相同<br><br><br><br>
+<br>除了变量名不一样以外其余的都相同<br><br><br><br>
 
 #### 6、来做题吧
 
