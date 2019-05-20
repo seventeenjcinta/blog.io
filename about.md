@@ -15,7 +15,7 @@ header-img: "img/blue.jpg"
 
 很高兴认识诸位<br />
 
-联系我：3240027916@qq.com<br />
+联系我：woshishiqi1900@gmail.com<br />
 
 
 
