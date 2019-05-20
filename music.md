@@ -39,4 +39,5 @@ header-img: "img/red.jpg"
 - [打上花火 —— DAOKO / 米奇律师(???)](https://music.163.com/#/song?id=496869422)
 - [Lemon —— 天津法师(???)](https://music.163.com/#/song?id=536622304)
 - [爱了很久的朋友 —— 田馥甄](https://music.163.com/#/song?id=547976490)
+- [ごはんを食べよう —— Goose house](https://music.163.com/#/song?id=27538415)
 
