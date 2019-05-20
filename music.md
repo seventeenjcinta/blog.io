@@ -24,13 +24,13 @@ header-img: "img/red.jpg"
 - [甜学姐](https://liuyueweiyu.github.io)
 
 
-## [不言而喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
+## [不言](http://music.163.com/#/my/m/music/playlist?id=450890752)[而](https://www.cnblogs.com/seventeenjcinta/p/10893356.html)[喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
 
 - [Counting Stars —— Simply Three](http://music.163.com/#/song?id=28363806)
 - [Letter —— Iris](http://music.163.com/#/song?id=26620638)
 - [River Flows in You，Wedding Dress —— 安俊成](https://music.163.com/#/song?id=27901129)
 
-## 如约而至
+## [如约而至](https://www.zhihu.com/people/shi-qi-05-05/activities)
 - [Counting Stars —— OneRepublic](http://music.163.com/#/song?id=26060065)
 - [后来 —— 刘若英](http://music.163.com/#/song?id=254574)
 - [Everything's Alright —— Kan R. Gao / Laura Shigihara](http://music.163.com/#/song?id=1645135)
