@@ -23,6 +23,7 @@ header-img: "img/red.jpg"
 - [坏妈妈](https://www.cnblogs.com/wxy990118/)
 - [甜学姐](https://liuyueweiyu.github.io)
 - [菠菠萝永远是我大姐](https://bololopie.com/)
+- [暗 黑 喵](http://xiekeyi98.com/)
 
 
 ## [不言](http://music.163.com/#/my/m/music/playlist?id=450890752)[而](https://www.cnblogs.com/seventeenjcinta/p/10893356.html)[喻](http://music.163.com/#/my/m/music/playlist?id=450890752)
