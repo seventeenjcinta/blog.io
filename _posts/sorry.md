@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【死亡原因】尚不明确
-date: 2019-10-12
+date: 2021-06-12
 categories: blog
 tags: [杂谈]
 use_math: true	
